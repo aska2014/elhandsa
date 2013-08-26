@@ -1,4 +1,0 @@
-1) Average Memory used for the requesting a page is 4.5 MB !
-2) SSH shell public KEY
-	id : id_dsa
-	password : hggih;fv
